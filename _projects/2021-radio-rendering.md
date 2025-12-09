@@ -5,6 +5,13 @@ description: Utilizing CAD, FEM, and MATLAB to design a first cut design of a to
 technologies: [Autodesk Fusion, ANSYS, MATLAB]
 image: /assets/images/final-rendering.png
 ---
+<style>
+img {
+  max-width: 800px;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 For MAE 3270 - Mechanics of Materials, we were asked to design a torque wrench based on various calculations and Ansys FEM analysis. 
 
