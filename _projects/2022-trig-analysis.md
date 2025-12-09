@@ -14,10 +14,10 @@ Design and analysis of a strain gauge-based torque wrench using FEM analysis and
 
 ## 1. CAD Model
 
-![CAD Model - Rendering](./assets/cad_rendering.png)
+![CAD Model - Rendering](./assets/final-rendering.png)
 *Figure 1: CAD model rendering showing key dimensions*
 
-![CAD Model - Technical Drawing](./assets/cad_drawing.png)
+![CAD Model - Technical Drawing](./assets/final-drawing.jpg)
 *Figure 2: Technical drawing with dimensions*
 
 ---
@@ -54,8 +54,9 @@ The 7075-T6 aluminum provides adequate yield strength while maintaining a lower 
 
 ## 3. FEM Model: Loads and Boundary Conditions
 
-![Loads and Boundary Conditions](./assets/fem_boundary_conditions.png)
-*Figure 3: Diagram showing applied loads and boundary conditions*
+![Loads and Boundary Conditions](./assets/load-bc1.png)
+![Loads and Boundary Conditions](./assets/load-bc2.png)
+*Figure 3: FEM showing applied loads and boundary conditions*
 
 ### Boundary Conditions
 - **Fixed Region:** All five faces of the contact region at the wrench end are constrained (zero displacement)
@@ -88,13 +89,6 @@ The applied force model was significantly improved from the baseline design to b
 
 ## 6. FEM Analysis Results Summary
 
-| Parameter | Value |
-|-----------|-------|
-| **Max Normal Stress** | 2.00 × 10⁵ psi |
-| **Normal Stress (1 Node from Max)** | 7.05 × 10⁴ psi |
-| **Load Point Deflection** | 0.437 in |
-| **Strain at Gauge Location (c=1)** | 1.393 × 10⁻³ |
-
 ![FEM Results Table](./assets/fem_results_table.png)
 *Figure 6: Complete FEM analysis results*
 
@@ -106,8 +100,8 @@ The applied force model was significantly improved from the baseline design to b
 
 ```
 Sensitivity = ε × GF
-Sensitivity = 1.393 × 10⁻³ × 2.105
-Sensitivity = 2.93 × 10⁻³ mV/V
+Sensitivity = 1.393 × 10⁻³ × 1.05
+Sensitivity = 1.46 × 10⁻³ mV/V
 ```
 
 Where:
@@ -125,7 +119,6 @@ Where:
 - **Type:** Uniaxial constantan foil strain gauge
 - **Gauge Factor:** 2.1
 - **Dimensions:** 0.38 in × 0.19 in
-- **Resistance:** 350 Ω
 
 The design provides adequate space to physically bond the gauge to the wrench surface at the specified measurement location.
 
@@ -136,7 +129,3 @@ The design provides adequate space to physically bond the gauge to the wrench su
 This design successfully optimizes material selection and geometry to create a cost-effective, accurate torque wrench. The 7075-T6 aluminum alloy provides the necessary mechanical properties while reducing material costs by over 11× compared to the baseline M42 steel design. FEM analysis validates that the design meets all structural and sensitivity requirements.
 
 
-```python
-    some code = 10;
-    plot();
-```
