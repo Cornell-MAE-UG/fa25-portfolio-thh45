@@ -11,6 +11,16 @@ img {
   width: 100%;
   height: auto;
 }
+
+h1 {
+  font-size: 1.8em;
+  line-height: 1.2;
+}
+
+h2 {
+  text-align: left;
+  margin-left: 0;
+}
 </style>
 
 ## 1. CAD Model
