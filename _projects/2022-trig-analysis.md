@@ -6,6 +6,13 @@ technologies: [MATLAB, Ansys FEM, Fusion360]
 
 
 ---
+<style>
+img {
+  max-width: 800px;
+  width: 100%;
+  height: auto;
+}
+</style>
 
 ## 1. CAD Model
 
