@@ -1,14 +1,9 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
----
+title: Torque Wrench Design Project
+description: Design and analysis of a strain gauge-based torque wrench using FEM analysis and optimal material selection.
+technologies: [MATLAB, Ansys FEM, Fusion360]
 
-# Torque Wrench Design Project
-
-## Project Overview
-Design and analysis of a strain gauge-based torque wrench using FEM analysis and optimal material selection.
 
 ---
 
