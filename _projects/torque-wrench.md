@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench Design Project
 description: Design and analysis of a strain gauge-based torque wrench using FEM analysis and optimal material selection.
 technologies: [MATLAB, Ansys FEM, Fusion360]
-
+image: /fa25-portfolio-thh45/assets/images/final-rendering.png
 ---
 <style>
 img {
@@ -138,5 +138,3 @@ The design provides adequate space to physically bond the gauge to the wrench su
 ## Conclusion
 
 This design successfully optimizes material selection and geometry to create a cost-effective, accurate torque wrench. The 7075-T6 aluminum alloy provides the necessary mechanical properties while reducing material costs by over 11× compared to the baseline M42 steel design. FEM analysis validates that the design meets all structural and sensitivity requirements.
-
-
