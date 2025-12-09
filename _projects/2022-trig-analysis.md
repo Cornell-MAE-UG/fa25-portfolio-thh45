@@ -9,10 +9,10 @@ technologies: [MATLAB, Ansys FEM, Fusion360]
 
 ## 1. CAD Model
 
-![CAD Model - Rendering](./assets/images/final-rendering.png)
+![CAD Model - Rendering](/assets/images/final-rendering.png)
 *Figure 1: CAD model rendering showing key dimensions*
 
-![CAD Model - Technical Drawing](./assets/images/final-drawing.jpg)
+![CAD Model - Technical Drawing](/assets/images/final-drawing.jpg)
 *Figure 2: Technical drawing with dimensions*
 
 ---
@@ -49,8 +49,8 @@ The 7075-T6 aluminum provides adequate yield strength while maintaining a lower 
 
 ## 3. FEM Model: Loads and Boundary Conditions
 
-![Loads and Boundary Conditions](./assets/images/load-bc1.png)
-![Loads and Boundary Conditions](./assets/images/load-bc2.png)
+![Loads and Boundary Conditions](/assets/images/load-bc1.png)
+![Loads and Boundary Conditions](/assets/images/load-bc2.png)
 *Figure 3: FEM showing applied loads and boundary conditions*
 
 ### Boundary Conditions
@@ -70,21 +70,21 @@ The applied force model was significantly improved from the baseline design to b
 
 ## 4. Normal Strain Contours
 
-![Normal Strain Contours](./assets/images/normal_strain_contours.png)
+![Normal Strain Contours](/assets/images/normal_strain_contours.png)
 *Figure 4: Normal strain distribution in strain gauge direction*
 
 ---
 
 ## 5. Maximum Principal Stress
 
-![Maximum Principal Stress](./assets/images/max_principal_stress.png)
+![Maximum Principal Stress](/assets/images/max_principal_stress.png)
 *Figure 5: Maximum principal stress contour plot*
 
 ---
 
 ## 6. FEM Analysis Results Summary
 
-![FEM Results Table](./assets/images/fem_results_table.png)
+![FEM Results Table](/assets/images/fem_results_table.png)
 *Figure 6: Complete FEM analysis results*
 
 ---
