@@ -3,7 +3,6 @@ layout: project
 title: Analysis of Functions
 description: Class project with Graphs
 technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
 ---
 
 # Torque Wrench Design Project
@@ -141,6 +140,3 @@ This design successfully optimizes material selection and geometry to create a c
     some code = 10;
     plot();
 ```
-
-
-
