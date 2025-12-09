@@ -3,7 +3,7 @@ layout: project
 title: Torque Wrench Design Project
 description: Design and analysis of a strain gauge-based torque wrench using FEM analysis and optimal material selection.
 technologies: [MATLAB, Ansys FEM, Fusion360]
-
+image: /assets/images/final-rendering.png
 
 ---
 <style>
