@@ -98,7 +98,7 @@ This closed-loop behavior explains why the device automatically delivers a more 
 
 For detailed experimental methods, oscilloscope data, mathematical analysis, and complete results, view our full dissection report:
 
-**[Download Full Report (PDF)]({{ site.baseurl }}/assets/3260_Dissection_Report.pdf)**
+**[Download Full Report (PDF)](https://cornell-mae-ug.github.io/fa25-portfolio-thh45/assets/3260_Dissection_Report.pdf)**
 
 ---
 
