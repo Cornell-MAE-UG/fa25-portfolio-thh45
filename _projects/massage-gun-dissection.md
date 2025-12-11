@@ -2,7 +2,7 @@
 layout: project
 title: Massage Gun System Dynamics Analysis
 description: Dissection and control system analysis of a massage gun for MAE 3260
-technologies: [MATLAB, Oscilloscope, System Dynamics, Control Systems]
+technologies: [Oscilloscope, Keysight BenchVue, Microsoft Excel]
 image: /fa25-portfolio-thh45/assets/images/massage-gun-cover.jpg
 ---
 
