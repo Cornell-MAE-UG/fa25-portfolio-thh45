@@ -1,7 +1,6 @@
 ---
 layout: project
 title: "Heat Transfer Problem Set 3"
-image: 
 ---
 
 ## MAE 3240 – Heat Transfer Problem Set #3
